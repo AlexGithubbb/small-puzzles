@@ -17,7 +17,7 @@ Question 3: Write a function that converts HEX to RGB.Then Make that function au
 
 
 
-const array = [1, "string", 2, 4, 591, 392, 391, 2, 5, 10, 2, 1, 1, 1, 20, 20];
+const array = [1, 2, 4, 591, 392, 391, 2, 5, 10, 2, 1, 1, 1, 20, 20];
 function getDuplicates(number, array) {
   // given a number and an array, if the number repeats itself returns a sub-array;
   // i.e. getDuplicates(4,[1,1,2,3,4,4,5]) -> [4,4]
